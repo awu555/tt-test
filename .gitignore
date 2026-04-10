@@ -1,0 +1,17 @@
+.DS_Store
+
+# dependencies
+node_modules/
+
+# local toolchain (local node installation)
+.tools/
+
+# build
+dist/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
